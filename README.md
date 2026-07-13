@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=1200&pause=600&color=00C2FF&center=true&vCenter=true&width=520&lines=Risvanth+K+M;Student+at+NITT;Systems+Enthusiast;AI%2FML+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=34&duration=1200&pause=600&color=42f548&center=true&vCenter=true&width=520&lines=Risvanth+K+M;Student+at+NITT;Systems+Enthusiast;AI%2FML+Enthusiast" />
 </p>
 
 🎓 Undergraduate at **National Institute of Technology Tiruchirappalli (NIT Trichy)**
@@ -20,6 +20,8 @@ I'm passionate about building reliable systems at the intersection of **Systems 
 - 🌱 Currently learning **Kubernetes, MLOps, Networking, and Advanced LLMs**
 
 ---
+
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes,nginx,jenkins,azure,postgres,python,cpp,bash,js,pytorch)](https://skillicons.dev)
 
 ## 🛠️ Tech Stack
 
