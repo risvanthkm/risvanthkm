@@ -1,5 +1,15 @@
-# Hi, I'm Risvanth 
+<h1 align="center">
+  Hi, I'm
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=90&pause=1000&color=58A6FF&vCenter=true&repeat=true&width=360&lines=Rizz;Rish;Risvanth+K+M"
+    alt="Typing SVG"
+  />
+</h1>
 
+<p align="center">
+  <b>Systems • DevOps • AI • Machine Learning • Networking</b>
+</p>
+<br/>
 🎓 Undergraduate at **National Institute of Technology Tiruchirappalli (NIT Trichy)**
 
 I'm passionate about building reliable systems at the intersection of **Systems Administration, DevOps, Networking, Artificial Intelligence, Machine Learning, and Agentic AI**.
