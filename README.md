@@ -1,4 +1,4 @@
-# Hi, I'm Risvanth 👋
+# Hi, I'm Risvanth 
 
 🎓 Undergraduate at **National Institute of Technology Tiruchirappalli (NIT Trichy)**
 
