@@ -6,7 +6,7 @@
 
 <p align="center">
   🎓 Undergraduate at <b>National Institute of Technology Tiruchirappalli (NIT Trichy)</b><br/>
-  Building reliable systems at the intersection of <b>Systems Administration, DevOps, Networking, and Applied AI/ML</b>
+  Building reliable systems at the intersection of <b>Systems Administration, Applied AI/M and DevOps</b>
 </p>
 
 <p align="center">
