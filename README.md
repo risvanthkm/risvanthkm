@@ -6,7 +6,7 @@
 
 <p align="center">
   🎓 Undergraduate at <b>National Institute of Technology Tiruchirappalli (NIT Trichy)</b><br/>
-  Building reliable systems at the intersection of <b>Systems Administration, Applied AI/M and DevOps</b>
+  Building reliable systems at the intersection of <b>Systems Administration, Applied AI/ML and DevOps</b>
 </p>
 
 <p align="center">
@@ -23,7 +23,6 @@
 - 🌐 Interested in **Computer Networking & Server Infrastructure**
 - ⚙️ Building scalable infrastructure with **DevOps** practices
 - 🤖 Developing **AI, LLM, and Agentic AI** applications
-- ☁️ Exploring Cloud Computing and Distributed Systems
 - 🌱 Currently learning **Kubernetes, MLOps, Networking, and Advanced LLMs**
 
 ---
