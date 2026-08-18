@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=32&duration=1200&pause=600&color=42F548&center=true&vCenter=true&width=560&lines=Risvanth+K+M;SD+at+Delta+Force;Systems+%2B+AI%2FML+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=32&duration=1200&pause=600&color=42F548&center=true&vCenter=true&width=560&lines=Risvanth+K+M;AI/ML+Engineer+at+DeltaForce;Systems+%2B+AI%2FML+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
